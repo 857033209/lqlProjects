@@ -1,0 +1,13 @@
+D:\Test\C#Test\mapingTest\bin\Debug\netcoreapp3.1\mapingTest.exe
+D:\Test\C#Test\mapingTest\bin\Debug\netcoreapp3.1\mapingTest.deps.json
+D:\Test\C#Test\mapingTest\bin\Debug\netcoreapp3.1\mapingTest.runtimeconfig.json
+D:\Test\C#Test\mapingTest\bin\Debug\netcoreapp3.1\mapingTest.runtimeconfig.dev.json
+D:\Test\C#Test\mapingTest\bin\Debug\netcoreapp3.1\mapingTest.dll
+D:\Test\C#Test\mapingTest\bin\Debug\netcoreapp3.1\mapingTest.pdb
+D:\Test\C#Test\mapingTest\obj\Debug\netcoreapp3.1\mapingTest.csprojAssemblyReference.cache
+D:\Test\C#Test\mapingTest\obj\Debug\netcoreapp3.1\mapingTest.AssemblyInfoInputs.cache
+D:\Test\C#Test\mapingTest\obj\Debug\netcoreapp3.1\mapingTest.AssemblyInfo.cs
+D:\Test\C#Test\mapingTest\obj\Debug\netcoreapp3.1\mapingTest.csproj.CoreCompileInputs.cache
+D:\Test\C#Test\mapingTest\obj\Debug\netcoreapp3.1\mapingTest.dll
+D:\Test\C#Test\mapingTest\obj\Debug\netcoreapp3.1\mapingTest.pdb
+D:\Test\C#Test\mapingTest\obj\Debug\netcoreapp3.1\mapingTest.genruntimeconfig.cache
